@@ -9,5 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 
+plan.txt
 # macOS
 .DS_Store
